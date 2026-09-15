@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nurixnurix20-afk.github.io/med/sitemap.xml
